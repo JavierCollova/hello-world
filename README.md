@@ -1,4 +1,5 @@
 # hello-world
-a greeting repository
 
-wololo 11 11
+Hello! 
+
+If you are reading this readme, you need to find a new hobby
